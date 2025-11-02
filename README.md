@@ -1,2 +1,1 @@
 # my-news-sit
-mma
